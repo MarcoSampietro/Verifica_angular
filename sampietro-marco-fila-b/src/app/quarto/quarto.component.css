@@ -1,0 +1,11 @@
+.colore{
+    color:#e4e44e;
+}
+.container1{
+    background-color: white;
+    width: fit-content;
+    padding: 1rem;
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+}
